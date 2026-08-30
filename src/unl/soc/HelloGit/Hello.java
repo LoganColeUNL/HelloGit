@@ -15,6 +15,8 @@ public class Hello {
 	public static void main(String[] args) {
 		System.out.println("Hello world! My name is Logan Cole!");
 		System.out.println("And my major is Computer Science!");
+		System.out.println("Name: Boston Wagner");
+		System.out.println("Major: Computer Science");
 	}
 
 }
